@@ -1,0 +1,1 @@
+Code testbed for various technologies, such as Win32, Qt, .NET, etc.
